@@ -1,0 +1,27 @@
+# 不允许进入公开反馈仓库的安装包和游戏资源
+*.apk
+*.xapk
+*.apks
+*.obb
+*.aab
+*.zip
+*.7z
+*.rar
+AssetBundles/
+StreamingAssets/
+Audio/
+Movies/
+*.db
+*.sqlite
+*.bak
+*save*
+*account*
+*token*
+*credential*
+
+# 本地日志和构建输出
+logs/
+build/
+dist/
+bin/
+obj/
